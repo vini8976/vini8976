@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 👩‍🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at **Galgotias University** (2022–2026) | **CGPA: 8.54**
+- 👩‍🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at **Galgotias University** (2022–2026) 
 - 💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Technologies**
 - 🌱 Currently improving my skills in **Java**, **Data Structures & Algorithms**, and **AWS Cloud**
 - 🤖 Built an **AI-powered disease diagnostic portal** for farmers and an **Amazon UI clone**
