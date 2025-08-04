@@ -7,18 +7,6 @@
 
 ---
 
-### 🌟 About Me
-- 👩‍🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at **Galgotias University** (2022–2026) 
-- 💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Technologies**
-- 🌱 Currently improving my skills in **Java**, **Data Structures & Algorithms**, and **AWS Cloud**
-- 🤖 Built an **AI-powered disease diagnostic portal** for farmers and an **Amazon UI clone**
-- 📈 Solved **200+ DSA problems** on LeetCode
-- 🏆 **Top 50 Finalist** – Smart India Hackathon 2024
-- 📫 Email: [singhvinita298444@gmail.com](mailto:singhvinita298444@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vinita-singh-91983)
-
----
-
 ### 🛠️ Skills & Technologies
 
 **Languages & Databases:**  
@@ -80,9 +68,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinita-singh&theme=radical" alt="vinita-singh streak" />
 </p>
 
----
-
-### ✨ Fun Fact
-
-> I love turning ideas into visually stunning and performance-optimized web experiences 🌐💡
 
